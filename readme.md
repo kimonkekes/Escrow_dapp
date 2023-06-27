@@ -1,6 +1,6 @@
 # Decentralized Escrow Application
 
-This is a simple blockchain Escrow dapp built with [Hardhat](https://hardhat.org/). It transfers funds Ether from a depositor to a beneficiary, via the approval of a third-party arbiter.
+This is a simple blockchain Escrow dapp built with [Hardhat](https://hardhat.org/). It transfers Ether from a depositor to a beneficiary, via the approval of a third-party arbiter.
 
 ## Project Layout
 
